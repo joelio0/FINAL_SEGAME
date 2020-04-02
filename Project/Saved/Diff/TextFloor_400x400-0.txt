@@ -1,0 +1,35 @@
+Begin Object Class=/Script/Engine.StaticMesh Name="Floor_400x400"
+   Begin Object Class=/Script/UnrealEd.FbxStaticMeshImportData Name="FbxStaticMeshImportData_23"
+   End Object
+   Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_11"
+   End Object
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_6"
+   End Object
+   Begin Object Class=/Script/NavigationSystem.NavCollision Name="NavCollision_9"
+   End Object
+   Begin Object Name="FbxStaticMeshImportData_23"
+   End Object
+   Begin Object Name="BodySetup_11"
+      CollisionTraceFlag=CTF_UseComplexAsSimple
+      DefaultInstance=(ObjectType=ECC_WorldStatic,CollisionProfileName="BlockAll")
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_6"
+   End Object
+   Begin Object Name="NavCollision_9"
+   End Object
+   SourceModels(0)=(BuildSettings=(bRecomputeNormals=False,bGenerateLightmapUVs=False),ReductionSettings=(HardAngleThreshold=45.000000),ScreenSize=(Default=1.000000))
+   SectionInfoMap=(Map=((0, ())))
+   OriginalSectionInfoMap=(Map=((0, ())))
+   LightmapUVVersion=8
+   StaticMaterials(0)=(MaterialInterface=Material'"/Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor"',MaterialSlotName="M_Basic_Floor",ImportedMaterialSlotName="M_Basic_Floor",UVChannelData=(bInitialized=True,LocalUVDensities[0]=100.111244,LocalUVDensities[1]=822.410767))
+   LightmapUVDensity=822.410767
+   LightMapResolution=128
+   LightMapCoordinateIndex=1
+   AssetImportData=FbxStaticMeshImportData'"FbxStaticMeshImportData_23"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_6"'
+   ExtendedBounds=(Origin=(X=200.000000,Y=200.000000,Z=-10.000042),BoxExtent=(X=200.000000,Y=200.000000,Z=10.000065),SphereRadius=283.019440)
+End Object

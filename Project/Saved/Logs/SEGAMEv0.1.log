@@ -1542,3 +1542,1364 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-23.18.01:222][736]LogContentValidation: Display: Validating World /Game/Levels/Main_Area/Main_Area.Main_Area
 [2020.04.26-23.18.01:222][736]LogContentValidation: Display: Validating Blueprint /Game/Character/Soldier/InventorySystem/InventoryComponent.InventoryComponent
 [2020.04.26-23.18.01:222][736]LogContentValidation: Display: Validating Blueprint /Game/Character/Soldier/InventorySystem/Items/Item.Item
+[2020.04.26-23.18.29:639][321]LogEditorViewport: Clicking Background
+[2020.04.26-23.18.30:959][478]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP2)
+[2020.04.26-23.18.36:621][143]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP)
+[2020.04.26-23.18.40:401][572]LogEditorViewport: Clicking Background
+[2020.04.26-23.18.41:157][659]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP2)
+[2020.04.26-23.18.52:876][852]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP)
+[2020.04.26-23.18.53:584][935]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP)
+[2020.04.26-23.18.54:432][ 35]Cmd: DELETE
+[2020.04.26-23.18.54:432][ 35]Cmd: ACTOR DELETE
+[2020.04.26-23.18.54:439][ 35]LogEditorActor: Deleted Actor: HealthPotionBP_C
+[2020.04.26-23.18.54:489][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.04.26-23.18.54:491][ 35]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.04.26-23.18.55:779][189]LogEditorViewport: Clicking Background
+[2020.04.26-23.18.56:408][264]LogEditorViewport: Clicking Background
+[2020.04.26-23.18.57:104][347]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP2)
+[2020.04.26-23.18.58:080][461]Cmd: DELETE
+[2020.04.26-23.18.58:080][461]Cmd: ACTOR DELETE
+[2020.04.26-23.18.58:081][461]LogEditorActor: Deleted Actor: HealthPotionBP_C
+[2020.04.26-23.18.58:123][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.26-23.18.58:124][461]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.04.26-23.19.07:513][515]LogEditorViewport: Clicking on Actor (context menu): HealthPotionBP_C (HealthPotionBP2)
+[2020.04.26-23.19.16:262][541]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP)
+[2020.04.26-23.19.25:272][547]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP2)
+[2020.04.26-23.19.27:231][766]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.19.27:275][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.27:275][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.19.27:275][766]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:19:27 PM)
+[2020.04.26-23.19.27:275][766]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.19.27:278][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002964s)
+[2020.04.26-23.19.27:279][766]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.19.27:279][766]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2020.04.26-23.19.27:279][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003938s)
+[2020.04.26-23.19.27:328][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.04.26-23.19.27:329][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.19.27:329][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.19.27:329][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.19.27:329][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.19.27:329][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.19.27:329][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.19.27:330][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.19.27:330][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.19.27:330][766]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.19.27:330][766]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.19.27:361][766]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.19.27:371][766]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.19.27:373][766]LogInit: FAudioDevice initialized.
+[2020.04.26-23.19.27:402][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.19.27:402][766]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.19.27:405][766]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.19.27
+[2020.04.26-23.19.27:405][766]LogWorld: Bringing up level for play took: 0.002964
+[2020.04.26-23.19.27:406][766]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.04.26-23.19.27:413][766]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area 0.238
+[2020.04.26-23.19.27:414][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.35:732][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.19.35:736][757]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.19.35:756][757]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.19.35:756][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.35:756][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.19.35:757][757]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.19.35:777][757]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.19.35:785][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.19.35:785][757]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.19.35:786][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.19.35:800][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.19.35:800][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.35:804][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.19.35:847][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.19.35:853][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.26-23.19.35:870][758]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.26-23.19.36:621][846]LogEditorViewport: Clicking on Actor (LMB): HealthPotionBP_C (HealthPotionBP)
+[2020.04.26-23.19.44:295][730]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.19.44:339][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.44:339][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.19.44:339][730]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:19:44 PM)
+[2020.04.26-23.19.44:339][730]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.19.44:341][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002473s)
+[2020.04.26-23.19.44:342][730]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.19.44:342][730]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2020.04.26-23.19.44:342][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003417s)
+[2020.04.26-23.19.44:389][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.19.44:391][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.19.44:391][730]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.19.44:391][730]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.19.44:422][730]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.19.44:433][730]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.19.44:434][730]LogInit: FAudioDevice initialized.
+[2020.04.26-23.19.44:455][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.19.44:455][730]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.19.44:459][730]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.19.44
+[2020.04.26-23.19.44:459][730]LogWorld: Bringing up level for play took: 0.003012
+[2020.04.26-23.19.44:459][730]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.04.26-23.19.44:467][730]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area -0.709
+[2020.04.26-23.19.44:468][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.52:636][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.19.52:646][704]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.19.52:666][704]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.19.52:666][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.52:667][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.19.52:667][704]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.19.52:687][704]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.19.52:695][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.19.52:695][704]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.19.52:696][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.19.52:708][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.19.52:708][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.19.52:713][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.19.52:755][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.19.52:762][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.26-23.19.52:778][705]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.04.26-23.22.14:228][628]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.22.14:235][628]LogBlueprint: Error: [Compiler InventoryWindow] The property associated with  Inventory GI  could not be found in '/Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C'
+[2020.04.26-23.22.14:235][628]LogBlueprint: Error: [Compiler InventoryWindow] The property associated with  Inventory GI  could not be found in '/Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C'
+[2020.04.26-23.22.14:287][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.26-23.22.23:416][649]BlueprintLog: New page: Compile MyGameInstance
+[2020.04.26-23.22.23:475][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.26-23.22.27:500][ 79]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.22.27:555][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.04.26-23.22.48:486][303]LogSlate: Window 'Delete Variable' being destroyed
+[2020.04.26-23.22.51:871][700]BlueprintLog: New page: Compile InventoryComponent
+[2020.04.26-23.22.51:895][700]LogBlueprint: Error: [Compiler InventoryComponent] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.26-23.22.51:895][700]LogBlueprint: Error: [Compiler InventoryComponent] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.26-23.22.51:895][700]LogBlueprint: Error: [Compiler InventoryComponent] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.26-23.22.51:896][700]LogBlueprint: Error: [Compiler InventoryComponent] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.26-23.22.51:896][700]LogBlueprint: Error: [Compiler InventoryComponent] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.26-23.22.51:896][700]LogBlueprint: Error: [Compiler InventoryComponent] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.26-23.22.51:896][700]LogBlueprint: Error: [Compiler InventoryComponent] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.04.26-23.22.52:133][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.04.26-23.23.35:128][680]LogEditorTransaction: Undo Move Node
+[2020.04.26-23.23.36:029][751]LogEditorTransaction: Undo Move Node
+[2020.04.26-23.23.36:525][808]LogEditorTransaction: Undo Add Node
+[2020.04.26-23.23.37:043][867]LogEditorTransaction: Undo Create Pin Link
+[2020.04.26-23.23.37:906][966]LogEditorTransaction: Undo Move Node
+[2020.04.26-23.23.38:725][ 61]LogEditorTransaction: Undo Add Node
+[2020.04.26-23.23.39:185][114]LogEditorTransaction: Undo Add Node
+[2020.04.26-23.23.39:754][180]LogEditorTransaction: Undo Remove Variable
+[2020.04.26-23.24.05:370][171]BlueprintLog: New page: Compile InventoryComponent
+[2020.04.26-23.24.05:621][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.04.26-23.24.09:868][661]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.24.09:915][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.24.09:915][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.24.09:915][661]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:24:09 PM)
+[2020.04.26-23.24.09:916][661]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.24.09:918][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002238s)
+[2020.04.26-23.24.09:919][661]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.24.09:919][661]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.04.26-23.24.09:919][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003351s)
+[2020.04.26-23.24.09:966][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.24.09:967][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.24.09:967][661]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.24.09:967][661]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.24.09:998][661]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.24.10:009][661]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.24.10:011][661]LogInit: FAudioDevice initialized.
+[2020.04.26-23.24.10:037][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.24.10:037][661]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.24.10:040][661]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.24.10
+[2020.04.26-23.24.10:041][661]LogWorld: Bringing up level for play took: 0.003249
+[2020.04.26-23.24.10:041][661]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.04.26-23.24.10:042][661]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.24.10:048][661]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area 0.873
+[2020.04.26-23.24.10:049][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.24.15:847][334]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:00B0
+[2020.04.26-23.24.15:847][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:847][334]LogScript: Warning: Accessed None
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:007B
+[2020.04.26-23.24.15:847][334]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:847][334]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:00B0
+[2020.04.26-23.24.15:848][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:848][334]LogScript: Warning: Accessed None
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:007B
+[2020.04.26-23.24.15:848][334]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:848][334]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:00B0
+[2020.04.26-23.24.15:848][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:848][334]LogScript: Warning: Accessed None
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:007B
+[2020.04.26-23.24.15:848][334]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:848][334]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:00B0
+[2020.04.26-23.24.15:849][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:849][334]LogScript: Warning: Accessed None
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:007B
+[2020.04.26-23.24.15:849][334]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.24.15:849][334]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:0386
+[2020.04.26-23.24.15:849][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set InventoryTitle
+[2020.04.26-23.24.16:215][376]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:OnKeyDown:00F8
+[2020.04.26-23.24.16:215][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.24.16:743][438]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_13.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:OnKeyDown:00F8
+[2020.04.26-23.24.16:743][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.24.17:219][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.24.17:225][493]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.24.17:245][493]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.24.17:245][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.24.17:246][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.24.17:246][493]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.24.17:265][493]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.24.17:272][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.24.17:272][493]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.24.17:272][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.24.17:281][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.24.17:283][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.24.17:286][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.24.17:328][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.24.17:335][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.04.26-23.24.17:408][494]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.26-23.24.20:981][861]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.24.20:988][861]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.24.36:962][703]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.24.37:017][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.04.26-23.26.51:414][  7]BlueprintLog: New page: Compile MyGameInstance
+[2020.04.26-23.26.51:476][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.26-23.31.00:624][547]BlueprintLog: New page: Compile InventoryComponent
+[2020.04.26-23.31.00:893][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.26-23.33.25:895][400]BlueprintLog: New page: Compile MyGameInstance
+[2020.04.26-23.33.25:911][400]LogClass: Warning: Type mismatch in InventoryGISlot of MyGameInstance_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.04.26-23.33.25:958][400]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.04.26-23.33.56:294][746]BlueprintLog: New page: Compile InventoryComponent
+[2020.04.26-23.33.56:544][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.04.26-23.34.06:832][911]BlueprintLog: New page: Compile InventoryComponent
+[2020.04.26-23.34.07:083][911]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.26-23.34.17:164][ 67]BlueprintLog: New page: Compile InventoryComponent
+[2020.04.26-23.34.17:419][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.04.26-23.34.44:247][186]BlueprintLog: New page: Compile InventoryComponent
+[2020.04.26-23.34.44:492][186]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.26-23.34.51:952][ 52]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.34.51:989][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.34.51:990][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.34.51:990][ 52]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:34:51 PM)
+[2020.04.26-23.34.51:990][ 52]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.34.51:993][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002284s)
+[2020.04.26-23.34.51:993][ 52]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.34.51:994][ 52]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2020.04.26-23.34.51:994][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003340s)
+[2020.04.26-23.34.52:039][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.34.52:040][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.34.52:040][ 52]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.34.52:040][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.34.52:072][ 52]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.34.52:082][ 52]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.34.52:084][ 52]LogInit: FAudioDevice initialized.
+[2020.04.26-23.34.52:112][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.34.52:112][ 52]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.34.52:116][ 52]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.34.52
+[2020.04.26-23.34.52:116][ 52]LogWorld: Bringing up level for play took: 0.003191
+[2020.04.26-23.34.52:116][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.04.26-23.34.52:118][ 52]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.34.52:124][ 52]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area 0.948
+[2020.04.26-23.34.52:124][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.34.58:400][792]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_14.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:00B0
+[2020.04.26-23.34.58:400][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:400][792]LogScript: Warning: Accessed None
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_14.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:007B
+[2020.04.26-23.34.58:400][792]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:401][792]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_14.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:00B0
+[2020.04.26-23.34.58:401][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:401][792]LogScript: Warning: Accessed None
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_14.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:007B
+[2020.04.26-23.34.58:401][792]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:401][792]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_14.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:00B0
+[2020.04.26-23.34.58:401][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:401][792]LogScript: Warning: Accessed None
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_14.InventoryWindow_C_0
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:ExecuteUbergraph_InventoryWindow:007B
+[2020.04.26-23.34.58:401][792]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:402][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:402][792]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.34.58:402][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set InventoryTitle
+[2020.04.26-23.34.58:782][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.34.59:304][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.34.59:321][898]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.34.59:341][898]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.34.59:341][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.34.59:342][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.34.59:342][898]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.34.59:362][898]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.34.59:368][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.34.59:368][898]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.34.59:370][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.34.59:381][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.34.59:381][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.34.59:386][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.34.59:430][898]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.34.59:436][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.04.26-23.34.59:501][899]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.04.26-23.35.03:468][320]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.35.03:474][320]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.35.15:635][762]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.35.15:690][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.26-23.35.16:907][899]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.35.16:945][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.16:945][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.35.16:945][899]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:35:16 PM)
+[2020.04.26-23.35.16:945][899]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.35.16:948][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002179s)
+[2020.04.26-23.35.16:948][899]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.35.16:949][899]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.04.26-23.35.16:949][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003208s)
+[2020.04.26-23.35.16:994][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.35.16:994][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.35.16:994][899]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.35.16:994][899]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.35.17:025][899]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.35.17:036][899]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.35.17:037][899]LogInit: FAudioDevice initialized.
+[2020.04.26-23.35.17:062][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.35.17:062][899]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.35.17:066][899]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.35.17
+[2020.04.26-23.35.17:066][899]LogWorld: Bringing up level for play took: 0.003063
+[2020.04.26-23.35.17:066][899]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.04.26-23.35.17:068][899]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.35.17:074][899]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area -0.102
+[2020.04.26-23.35.17:074][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.18:658][ 74]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.35.18:661][ 74]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.35.18:681][ 74]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.35.18:681][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.18:682][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.35.18:682][ 74]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.35.18:702][ 74]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.35.18:707][ 74]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.35.18:707][ 74]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.35.18:708][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.35.18:716][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.35.18:717][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.18:721][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.35.18:764][ 74]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.35.18:770][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.26-23.35.18:783][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.04.26-23.35.20:505][262]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.35.20:542][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.20:542][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.35.20:542][262]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:35:20 PM)
+[2020.04.26-23.35.20:543][262]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.35.20:545][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002002s)
+[2020.04.26-23.35.20:545][262]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.35.20:546][262]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2020.04.26-23.35.20:546][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003011s)
+[2020.04.26-23.35.20:588][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.26-23.35.20:588][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.35.20:588][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.35.20:588][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.35.20:588][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.35.20:588][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.35.20:588][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.35.20:588][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.35.20:589][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.35.20:589][262]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.35.20:589][262]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.35.20:619][262]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.35.20:628][262]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.35.20:630][262]LogInit: FAudioDevice initialized.
+[2020.04.26-23.35.20:659][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.35.20:660][262]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.35.20:664][262]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.35.20
+[2020.04.26-23.35.20:664][262]LogWorld: Bringing up level for play took: 0.003364
+[2020.04.26-23.35.20:664][262]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.04.26-23.35.20:666][262]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.35.20:672][262]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area -0.505
+[2020.04.26-23.35.20:672][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.22:982][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:982][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:983][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:983][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:983][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:983][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:984][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:984][520]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Create Widget
+[2020.04.26-23.35.22:984][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set InventoryTitle
+[2020.04.26-23.35.23:477][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.35.23:705][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.35.23:721][602]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.35.23:742][602]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.35.23:742][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.23:742][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.35.23:742][602]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.35.23:761][602]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.35.23:767][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.35.23:768][602]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.35.23:768][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.35.23:776][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.35.23:776][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.35.23:781][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.35.23:823][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.35.23:828][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.04.26-23.35.23:891][603]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.04.26-23.36.36:866][623]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.36.36:921][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.04.26-23.36.37:841][697]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.36.37:878][697]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.36.37:879][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.36.37:879][697]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:36:37 PM)
+[2020.04.26-23.36.37:879][697]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.36.37:881][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002285s)
+[2020.04.26-23.36.37:882][697]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.36.37:882][697]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2020.04.26-23.36.37:882][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003287s)
+[2020.04.26-23.36.37:929][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.26-23.36.37:929][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.36.37:929][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.36.37:929][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.36.37:929][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.36.37:929][697]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.36.37:929][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.36.37:929][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.36.37:929][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.36.37:930][697]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.36.37:930][697]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.36.37:961][697]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.36.37:972][697]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.36.37:973][697]LogInit: FAudioDevice initialized.
+[2020.04.26-23.36.37:998][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.36.37:999][697]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.36.38:003][697]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.36.38
+[2020.04.26-23.36.38:003][697]LogWorld: Bringing up level for play took: 0.003860
+[2020.04.26-23.36.38:003][697]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.04.26-23.36.38:005][697]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.36.38:011][697]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area 0.835
+[2020.04.26-23.36.38:012][697]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.36.41:241][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  Execute Ubergraph Inventory Window Graph:  EventGraph Node:  Set InventoryTitle
+[2020.04.26-23.36.41:859][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.36.42:097][ 40]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.36.42:110][ 40]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.36.42:130][ 40]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.36.42:130][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.36.42:131][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.36.42:131][ 40]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.36.42:151][ 40]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.36.42:159][ 40]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.36.42:159][ 40]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.36.42:161][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.36.42:168][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.36.42:169][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.36.42:173][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.36.42:217][ 40]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.36.42:224][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.04.26-23.36.42:264][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.04.26-23.37.15:756][264]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.37.15:813][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.04.26-23.37.16:602][330]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.37.16:641][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.37.16:641][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.37.16:641][330]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:37:16 PM)
+[2020.04.26-23.37.16:641][330]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.37.16:643][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002252s)
+[2020.04.26-23.37.16:644][330]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.37.16:644][330]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2020.04.26-23.37.16:644][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003252s)
+[2020.04.26-23.37.16:690][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.37.16:691][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.37.16:691][330]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.37.16:691][330]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.37.16:725][330]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.37.16:735][330]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.37.16:737][330]LogInit: FAudioDevice initialized.
+[2020.04.26-23.37.16:762][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.37.16:763][330]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.37.16:766][330]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.37.16
+[2020.04.26-23.37.16:766][330]LogWorld: Bringing up level for play took: 0.003114
+[2020.04.26-23.37.16:767][330]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.04.26-23.37.16:768][330]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.37.16:774][330]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area -0.402
+[2020.04.26-23.37.16:774][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.37.20:849][718]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.37.22:043][829]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.37.22:050][829]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.37.22:070][829]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.37.22:070][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.37.22:071][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.37.22:071][829]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.37.22:091][829]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.37.22:096][829]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.37.22:096][829]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.37.22:097][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.37.22:107][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.37.22:107][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.37.22:112][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.37.22:155][829]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.37.22:161][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.26-23.37.22:193][830]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.04.26-23.37.36:285][408]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.37.36:290][408]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.38.15:130][999]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.38.15:170][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.38.15:170][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.38.15:170][999]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:38:15 PM)
+[2020.04.26-23.38.15:170][999]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.38.15:172][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002146s)
+[2020.04.26-23.38.15:173][999]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.38.15:173][999]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2020.04.26-23.38.15:173][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003226s)
+[2020.04.26-23.38.15:216][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.04.26-23.38.15:217][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.38.15:217][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.38.15:217][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.38.15:217][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.38.15:217][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.38.15:217][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.38.15:217][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.38.15:217][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.38.15:218][999]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.38.15:218][999]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.38.15:248][999]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.38.15:259][999]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.38.15:260][999]LogInit: FAudioDevice initialized.
+[2020.04.26-23.38.15:283][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.38.15:283][999]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.38.15:286][999]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.38.15
+[2020.04.26-23.38.15:287][999]LogWorld: Bringing up level for play took: 0.003152
+[2020.04.26-23.38.15:287][999]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.04.26-23.38.15:289][999]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.38.15:295][999]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area 0.119
+[2020.04.26-23.38.15:295][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.38.25:987][113]LogNet: Browse: /Game/Levels/Area_1/Area1
+[2020.04.26-23.38.25:987][113]LogLoad: LoadMap: /Game/Levels/Area_1/Area1
+[2020.04.26-23.38.25:987][113]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.38.25:987][113]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.38.25:988][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.38.25:990][113]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.38.26:010][113]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.38.26:053][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.04.26-23.38.26:059][113]LogAIModule: Creating AISystem for world Area1
+[2020.04.26-23.38.26:059][113]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.38.26:064][113]LogWorld: Bringing World /Game/Levels/Area_1/UEDPIE_0_Area1.Area1 up for play (max tick rate 0) at 2020.04.26-19.38.26
+[2020.04.26-23.38.26:064][113]LogWorld: Bringing up level for play took: 0.004509
+[2020.04.26-23.38.26:064][113]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.38.26:068][113]LogLoad: Took 0.080318 seconds to LoadMap(/Game/Levels/Area_1/Area1)
+[2020.04.26-23.38.27:761][288]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.38.34:365][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.38.34:370][973]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.38.34:390][973]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.38.34:390][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.38.34:390][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.38.34:390][973]LogWorld: BeginTearingDown for /Game/Levels/Area_1/UEDPIE_0_Area1
+[2020.04.26-23.38.34:411][973]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.38.34:417][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.38.34:417][973]LogWorld: UWorld::CleanupWorld for Area1, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.38.34:418][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.38.34:425][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.38.34:425][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.38.34:429][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.38.34:471][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.38.34:477][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.04.26-23.38.34:543][974]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.04.26-23.39.18:378][287]BlueprintLog: New page: Compile MyGameInstance
+[2020.04.26-23.39.18:439][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.04.26-23.39.19:680][405]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.39.19:726][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.19:727][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.39.19:727][405]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:39:19 PM)
+[2020.04.26-23.39.19:727][405]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.39.19:730][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002247s)
+[2020.04.26-23.39.19:730][405]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.39.19:731][405]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2020.04.26-23.39.19:731][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003348s)
+[2020.04.26-23.39.19:778][405]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.39.19:778][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.39.19:778][405]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.39.19:778][405]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.39.19:809][405]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.39.19:819][405]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.39.19:821][405]LogInit: FAudioDevice initialized.
+[2020.04.26-23.39.19:837][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.39.19:838][405]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.39.19:841][405]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.39.19
+[2020.04.26-23.39.19:842][405]LogWorld: Bringing up level for play took: 0.003401
+[2020.04.26-23.39.19:842][405]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.04.26-23.39.19:843][405]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.39.19:850][405]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area 0.674
+[2020.04.26-23.39.19:850][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.21:974][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.39.25:210][907]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_20.InventoryWindow_C_1
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:OnKeyDown:00E7
+[2020.04.26-23.39.25:210][907]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.39.26:430][ 20]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.39.26:440][ 20]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.39.26:460][ 20]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.39.26:460][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.26:460][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.39.26:460][ 20]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.39.26:480][ 20]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.39.26:488][ 20]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.39.26:488][ 20]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.39.26:489][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.39.26:496][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.39.26:497][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.26:502][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.39.26:545][ 20]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.39.26:552][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.26-23.39.26:586][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.04.26-23.39.29:923][354]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.39.29:928][354]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.39.30:651][434]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.39.30:689][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.30:689][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.39.30:689][434]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:39:30 PM)
+[2020.04.26-23.39.30:689][434]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.39.30:691][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002237s)
+[2020.04.26-23.39.30:692][434]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.39.30:692][434]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2020.04.26-23.39.30:692][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003249s)
+[2020.04.26-23.39.30:737][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.39.30:738][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.39.30:738][434]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.39.30:738][434]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.39.30:770][434]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.39.30:780][434]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.39.30:782][434]LogInit: FAudioDevice initialized.
+[2020.04.26-23.39.30:796][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.39.30:796][434]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.39.30:800][434]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.39.30
+[2020.04.26-23.39.30:800][434]LogWorld: Bringing up level for play took: 0.003239
+[2020.04.26-23.39.30:800][434]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.04.26-23.39.30:802][434]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.39.30:808][434]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area -0.369
+[2020.04.26-23.39.30:808][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.32:451][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.39.32:867][642]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.39.32:880][642]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.39.32:900][642]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.39.32:900][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.32:900][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.39.32:900][642]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.39.32:920][642]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.39.32:926][642]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.39.32:926][642]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.39.32:927][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.39.32:934][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.39.32:934][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.39.32:939][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.39.32:981][642]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.39.32:987][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.26-23.39.33:048][643]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.04.26-23.39.58:845][304]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.39.58:900][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.26-23.40.01:201][542]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.40.01:207][542]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.40.01:835][613]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.40.01:873][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.40.01:873][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.40.01:873][613]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:40:01 PM)
+[2020.04.26-23.40.01:873][613]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.40.01:875][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002083s)
+[2020.04.26-23.40.01:876][613]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.40.01:876][613]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2020.04.26-23.40.01:876][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.003128s)
+[2020.04.26-23.40.01:922][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.40.01:923][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.40.01:923][613]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.40.01:923][613]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.40.01:954][613]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.40.01:964][613]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.40.01:966][613]LogInit: FAudioDevice initialized.
+[2020.04.26-23.40.01:989][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.40.01:990][613]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.40.01:993][613]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.40.01
+[2020.04.26-23.40.01:994][613]LogWorld: Bringing up level for play took: 0.003334
+[2020.04.26-23.40.01:994][613]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.04.26-23.40.01:995][613]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.40.02:002][613]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area 0.826
+[2020.04.26-23.40.02:002][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.40.03:414][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.40.04:162][845]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.40.04:181][845]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.40.04:200][845]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.40.04:200][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.40.04:200][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.40.04:201][845]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.40.04:222][845]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.40.04:228][845]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.40.04:228][845]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.40.04:230][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.40.04:242][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.40.04:242][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.40.04:247][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.40.04:288][845]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.40.04:294][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.26-23.40.04:353][846]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.04.26-23.40.33:766][ 28]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.40.45:022][289]BlueprintLog: New page: Compile InventoryWindow
+[2020.04.26-23.40.45:081][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.26-23.40.46:552][444]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.04.26-23.40.46:589][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.40.46:589][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-23.40.46:589][444]PIE: New page: PIE session: Main_Area (Apr 26, 2020, 3:40:46 PM)
+[2020.04.26-23.40.46:590][444]LogPlayLevel: Creating play world package: /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.40.46:592][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002006s)
+[2020.04.26-23.40.46:593][444]LogAIModule: Creating AISystem for world Main_Area
+[2020.04.26-23.40.46:593][444]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2020.04.26-23.40.46:593][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Area/Main_Area.Main_Area to /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area (0.002998s)
+[2020.04.26-23.40.46:639][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.04.26-23.40.46:639][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.26-23.40.46:639][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.26-23.40.46:639][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.26-23.40.46:639][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.26-23.40.46:639][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.26-23.40.46:639][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.26-23.40.46:639][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.26-23.40.46:639][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.26-23.40.46:640][444]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.26-23.40.46:640][444]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: Name: Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: Is Default: Yes
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: Channel Order:
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.26-23.40.46:673][444]LogAudioMixer: Display: 1: FrontRight
+[2020.04.26-23.40.46:683][444]LogAudioMixer: Display: Using Audio Device Speakers (3- HyperX Cloud Flight Wireless Headset)
+[2020.04.26-23.40.46:685][444]LogInit: FAudioDevice initialized.
+[2020.04.26-23.40.46:714][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.40.46:714][444]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.40.46:718][444]LogWorld: Bringing World /Game/Levels/Main_Area/UEDPIE_0_Main_Area.Main_Area up for play (max tick rate 0) at 2020.04.26-19.40.46
+[2020.04.26-23.40.46:718][444]LogWorld: Bringing up level for play took: 0.003110
+[2020.04.26-23.40.46:718][444]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.04.26-23.40.46:720][444]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.40.46:726][444]PIE: Play in editor start time for /Game/Levels/Main_Area/UEDPIE_0_Main_Area -0.451
+[2020.04.26-23.40.46:726][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.40.51:318][896]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_23.InventoryWindow_C_1
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:OnKeyDown:00E7
+[2020.04.26-23.40.51:318][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.40.57:055][466]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_23.InventoryWindow_C_3
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:OnKeyDown:00E7
+[2020.04.26-23.40.57:055][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.41.03:716][135]LogNet: Browse: /Game/Levels/Area_1/Area1
+[2020.04.26-23.41.03:716][135]LogLoad: LoadMap: /Game/Levels/Area_1/Area1
+[2020.04.26-23.41.03:716][135]LogWorld: BeginTearingDown for /Game/Levels/Main_Area/UEDPIE_0_Main_Area
+[2020.04.26-23.41.03:716][135]LogWorld: UWorld::CleanupWorld for Main_Area, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.03:717][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.03:729][135]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.41.03:749][135]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.41.03:793][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.26-23.41.03:798][135]LogAIModule: Creating AISystem for world Area1
+[2020.04.26-23.41.03:799][135]LogLoad: Game class is 'GameModeThisOne_C'
+[2020.04.26-23.41.03:803][135]LogWorld: Bringing World /Game/Levels/Area_1/UEDPIE_0_Area1.Area1 up for play (max tick rate 0) at 2020.04.26-19.41.03
+[2020.04.26-23.41.03:804][135]LogWorld: Bringing up level for play took: 0.004170
+[2020.04.26-23.41.03:804][135]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-23.41.03:807][135]LogLoad: Took 0.091077 seconds to LoadMap(/Game/Levels/Area_1/Area1)
+[2020.04.26-23.41.06:170][374]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_23.InventoryWindow_C_4
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:OnKeyDown:00E7
+[2020.04.26-23.41.06:170][374]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.41.06:645][422]LogScript: Warning: Accessed None trying to read property InventoryGI
+	InventoryWindow_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_23.InventoryWindow_C_4
+	Function /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow_C:OnKeyDown:00E7
+[2020.04.26-23.41.06:645][422]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryGI". Blueprint:  InventoryWindow Function:  On Key Down Graph:  OnKeyDown Node:  Toggle Inventory
+[2020.04.26-23.41.18:493][624]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.41.18:509][624]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.26-23.41.18:539][624]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.26-23.41.18:540][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.41.18:540][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.41.18:540][624]LogWorld: BeginTearingDown for /Game/Levels/Area_1/UEDPIE_0_Area1
+[2020.04.26-23.41.18:561][624]LogSlate: Window 'SEGAMEv0.1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.26-23.41.18:569][624]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.41.18:569][624]LogWorld: UWorld::CleanupWorld for Area1, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.18:570][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.18:578][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-23.41.18:578][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area' with GeneratedClass '/Game/Levels/Main_Area/Main_Area.Main_Area_C' with ClassGeneratedBy '/Game/Levels/Main_Area/Main_Area.Main_Area:PersistentLevel.Main_Area'
+[2020.04.26-23.41.18:582][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.18:625][624]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.41.18:632][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.04.26-23.41.18:701][625]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.04.26-23.41.22:555][ 22]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.41.22:560][ 22]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-23.41.42:133][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.26-23.41.42:346][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_Area/Main_Area" FILE="../../../../../../SEGame/FINAL_SEGAME/Project/Content/Levels/Main_Area/Main_Area.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.26-23.41.42:389][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.26-23.41.42:612][290]LogSavePackage: Moving '../../../../../../SEGame/FINAL_SEGAME/Project/Saved/Main_AreaFEF730E64A1DA35ADB54F196FA1EB209.tmp' to '../../../../../../SEGame/FINAL_SEGAME/Project/Content/Levels/Main_Area/Main_Area.umap'
+[2020.04.26-23.41.42:654][290]LogFileHelpers: Saving map 'Main_Area' took 0.308
+[2020.04.26-23.41.42:717][290]LogSavePackage: Moving '../../../../../../SEGame/FINAL_SEGAME/Project/Saved/InventoryComponentD108F2514050DE7C932A6880680D1D4E.tmp' to '../../../../../../SEGame/FINAL_SEGAME/Project/Content/Character/Soldier/InventorySystem/InventoryComponent.uasset'
+[2020.04.26-23.41.42:760][290]LogSavePackage: Moving '../../../../../../SEGame/FINAL_SEGAME/Project/Saved/InventoryWindowA215824841CEF9D0D966BAB2F4CD69A7.tmp' to '../../../../../../SEGame/FINAL_SEGAME/Project/Content/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.uasset'
+[2020.04.26-23.41.42:761][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MyGameInstance" FILE="../../../../../../SEGame/FINAL_SEGAME/Project/Content/Character/MyGameInstance.uasset" SILENT=true
+[2020.04.26-23.41.42:789][290]LogSavePackage: Moving '../../../../../../SEGame/FINAL_SEGAME/Project/Saved/MyGameInstanceE6C966EF42D13DC3EDFCCAB995C95DC0.tmp' to '../../../../../../SEGame/FINAL_SEGAME/Project/Content/Character/MyGameInstance.uasset'
+[2020.04.26-23.41.42:817][290]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.26-23.41.42:817][290]LogContentValidation: Display: Validating World /Game/Levels/Main_Area/Main_Area.Main_Area
+[2020.04.26-23.41.42:817][290]LogContentValidation: Display: Validating Blueprint /Game/Character/Soldier/InventorySystem/InventoryComponent.InventoryComponent
+[2020.04.26-23.41.42:817][290]LogContentValidation: Display: Validating WidgetBlueprint /Game/Character/Soldier/InventorySystem/InventoryUI/InventoryWindow.InventoryWindow
+[2020.04.26-23.41.42:817][290]LogContentValidation: Display: Validating Blueprint /Game/Character/MyGameInstance.MyGameInstance
+[2020.04.26-23.41.44:300][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.04.26-23.41.44:389][452]LogSlate: Window 'MyGameInstance' being destroyed
+[2020.04.26-23.41.44:412][452]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:412][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:472][452]LogSlate: Window 'SEGAMEv0.1 - Unreal Editor' being destroyed
+[2020.04.26-23.41.44:473][452]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.26-23.41.44:590][452]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:590][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:663][452]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.26-23.41.44:663][452]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:664][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:736][452]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:736][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:806][452]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:806][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:810][452]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:810][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:900][452]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.26-23.41.44:900][452]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:900][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:967][452]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:967][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.44:971][452]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.44:971][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.26-23.41.45:044][453]Cmd: QUIT_EDITOR
+[2020.04.26-23.41.45:044][453]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.26-23.41.45:072][453]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.26-23.41.45:072][453]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.26-23.41.45:562][453]LogExit: Preparing to exit.
+[2020.04.26-23.41.46:757][453]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.46:788][453]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.26-23.41.46:831][453]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.26-23.41.46:831][453]LogExit: Editor shut down
+[2020.04.26-23.41.46:834][453]LogExit: Transaction tracking system shut down
+[2020.04.26-23.41.47:131][453]LogExit: Object subsystem successfully closed.
+[2020.04.26-23.41.47:144][453]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module SequencerWidgets (722)
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module BlueprintGraph (720)
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (718)
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module Voice (716)
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (714)
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (712)
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module SceneOutliner (710)
+[2020.04.26-23.41.47:156][453]LogModuleManager: Shutting down and abandoning module AddContentDialog (708)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module WidgetCarousel (707)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module EditorWidgets (704)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module CollectionManager (702)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module StatsViewer (700)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (698)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module FoliageEdit (696)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module LandscapeEditor (694)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module MeshPaintMode (692)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (690)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module ActorPickerMode (688)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module GeometryMode (686)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module TextureAlignMode (684)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module BspMode (682)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (680)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (678)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module AutomationWorker (676)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module SteamVREditor (674)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module OculusMR (672)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (670)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (668)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (666)
+[2020.04.26-23.41.47:158][453]LogModuleManager: Shutting down and abandoning module PlacementMode (665)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module MaterialEditor (664)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (660)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (658)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (656)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (654)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (652)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module WebMMedia (650)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (648)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (646)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module SequenceRecorder (645)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (642)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (640)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (638)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (636)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (634)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (632)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (630)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (628)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (626)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (624)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module CharacterAI (622)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module SmartSnapping (620)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module SessionServices (618)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module MeshPaint (616)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module ViewportSnapping (614)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module ViewportInteraction (612)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module ClothPainter (610)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (609)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module LogVisualizer (606)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module IntroTutorials (604)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (603)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (600)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (598)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (596)
+[2020.04.26-23.41.47:159][453]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (595)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (592)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (590)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (588)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (586)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (584)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (582)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module InputBindingEditor (580)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module MergeActors (578)
+[2020.04.26-23.41.49:009][453]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (576)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module LocalizationService (575)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module HardwareTargeting (572)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (570)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module UndoHistory (568)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module XmlParser (566)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module Blutility (564)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (562)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (561)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (558)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module SettingsEditor (556)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module ProjectLauncher (554)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module SessionFrontend (552)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module ProfilerClient (550)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module DeviceManager (548)
+[2020.04.26-23.41.49:010][453]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (547)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module AutomationController (544)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module AutomationWindow (542)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module Layers (540)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (538)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module DetailCustomizations (536)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module PackagesDialog (534)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (532)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module Persona (530)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (529)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module AnimGraph (527)
+[2020.04.26-23.41.49:043][453]LogModuleManager: Shutting down and abandoning module Kismet (524)
+[2020.04.26-23.41.49:050][453]LogModuleManager: Shutting down and abandoning module KismetWidgets (523)
+[2020.04.26-23.41.49:050][453]LogModuleManager: Shutting down and abandoning module GraphEditor (520)
+[2020.04.26-23.41.49:050][453]LogModuleManager: Shutting down and abandoning module StructViewer (518)
+[2020.04.26-23.41.49:050][453]LogModuleManager: Shutting down and abandoning module ClassViewer (516)
+[2020.04.26-23.41.49:050][453]LogModuleManager: Shutting down and abandoning module Toolbox (514)
+[2020.04.26-23.41.49:050][453]LogModuleManager: Shutting down and abandoning module ModuleUI (512)
+[2020.04.26-23.41.49:050][453]LogModuleManager: Shutting down and abandoning module OutputLog (510)
+[2020.04.26-23.41.49:051][453]LogModuleManager: Shutting down and abandoning module GammaUI (508)
+[2020.04.26-23.41.49:051][453]LogModuleManager: Shutting down and abandoning module Documentation (506)
+[2020.04.26-23.41.49:051][453]LogModuleManager: Shutting down and abandoning module ToolMenus (504)
+[2020.04.26-23.41.49:051][453]LogModuleManager: Shutting down and abandoning module LiveCoding (502)
+[2020.04.26-23.41.49:051][453]LogModuleManager: Shutting down and abandoning module LevelSequence (500)
+[2020.04.26-23.41.49:051][453]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (498)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module MovieScene (496)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (494)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module LauncherPlatform (492)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module AnalyticsET (490)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module PortalServices (488)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module PortalRpc (486)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module MessagingRpc (484)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (482)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module AIModule (480)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module GameplayDebugger (479)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module AITestSuite (477)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module NavigationSystem (475)
+[2020.04.26-23.41.49:052][453]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (472)
+[2020.04.26-23.41.49:056][453]LogModuleManager: Shutting down and abandoning module ProfilerService (470)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module TaskGraph (468)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module ScreenshotTools (466)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (464)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (462)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module OculusEditor (460)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module OculusInput (458)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (456)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module EditableMesh (454)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (452)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module CableComponent (450)
+[2020.04.26-23.41.49:159][453]LogModuleManager: Shutting down and abandoning module AudioCapture (448)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (447)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AssetTags (444)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (442)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (440)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AppleImageUtils (438)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AndroidPermission (436)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (434)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (432)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MediaCompositing (430)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module ImgMedia (428)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (426)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (424)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (422)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (420)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (418)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module BackChannel (416)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (414)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AutomationUtils (412)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AlembicImporter (410)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AlembicLibrary (409)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module GeometryCache (408)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (407)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (402)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (400)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (398)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module PluginBrowser (396)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (394)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (392)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module CurveEditorTools (390)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (388)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module CryptoKeys (386)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (384)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (382)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module UObjectPlugin (380)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (378)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (376)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (374)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module GitSourceControl (372)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module SourceControl (371)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (368)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module MultiUserClient (366)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module ConcertSyncUI (364)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (362)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (360)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (358)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (356)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (354)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (352)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (350)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (348)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module Paper2DEditor (346)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module SignificanceManager (344)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (342)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (340)
+[2020.04.26-23.41.49:160][453]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (336)
+[2020.04.26-23.41.49:161][453]LogModuleManager: Shutting down and abandoning module SQLiteCore (334)
+[2020.04.26-23.41.49:161][453]LogModuleManager: Shutting down and abandoning module ActorSequence (332)
+[2020.04.26-23.41.49:161][453]LogModuleManager: Shutting down and abandoning module UdpMessaging (330)
+[2020.04.26-23.41.49:262][453]LogModuleManager: Shutting down and abandoning module TcpMessaging (328)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (326)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (324)
+[2020.04.26-23.41.49:363][453]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (322)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (320)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (318)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (316)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (314)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (312)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapController (310)
+[2020.04.26-23.41.49:363][453]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (308)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module MagicLeapAR (306)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module AugmentedReality (305)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (302)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (300)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module FacialAnimation (298)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module DataValidation (296)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (294)
+[2020.04.26-23.41.49:363][453]LogModuleManager: Shutting down and abandoning module LevelEditor (293)
+[2020.04.26-23.41.49:364][453]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (292)
+[2020.04.26-23.41.49:364][453]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (290)
+[2020.04.26-23.41.49:364][453]LogModuleManager: Shutting down and abandoning module MainFrame (288)
+[2020.04.26-23.41.49:364][453]LogModuleManager: Shutting down and abandoning module HotReload (287)
+[2020.04.26-23.41.49:364][453]LogModuleManager: Shutting down and abandoning module ContentBrowser (283)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module TreeMap (281)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (278)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module Concert (276)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module ConcertTransport (275)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.04.26-23.41.49:366][453]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.04.26-23.41.49:368][453]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.04.26-23.41.49:370][453]LogDerivedDataCache: Shutdown
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.04.26-23.41.49:370][453]LogXGEController: Cleaning working directory: C:/Users/chapp/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.04.26-23.41.49:370][453]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.04.26-23.41.49:371][453]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.04.26-23.41.49:373][453]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.04.26-23.41.49:374][453]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.04.26-23.41.49:376][453]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.26-23.41.49:387][453]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.04.26-23.41.49:387][453]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.04.26-23.41.49:387][453]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.04.26-23.41.49:387][453]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.04.26-23.41.49:388][453]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.04.26-23.41.49:388][453]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.04.26-23.41.49:389][453]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.04.26-23.41.49:389][453]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.04.26-23.41.49:402][453]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.04.26-23.41.49:402][453]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.04.26-23.41.49:402][453]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10C8FD39-4845-82C3-F85D-83B55CEBEB68%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1e32181f495f5fedd29375b963785aec%7C697c72794c04440e89782aa72761442b%7Cf6580844-b37a-459a-beb5-99c17d246baf&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.04.26-23.41.49:402][453]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10C8FD39-4845-82C3-F85D-83B55CEBEB68%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1e32181f495f5fedd29375b963785aec%7C697c72794c04440e89782aa72761442b%7Cf6580844-b37a-459a-beb5-99c17d246baf&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.04.26-23.41.49:410][453]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.04.26-23.41.49:411][453]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.04.26-23.41.49:413][453]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.04.26-23.41.49:413][453]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.04.26-23.41.49:413][453]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.04.26-23.41.49:413][453]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.04.26-23.41.49:414][453]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.04.26-23.41.49:414][453]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.04.26-23.41.49:414][453]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.04.26-23.41.49:414][453]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.04.26-23.41.49:414][453]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.26-23.41.49:414][453]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.26-23.41.49:414][453]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.26-23.41.49:416][453]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.26-23.41.49:416][453]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.26-23.41.49:416][453]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.26-23.41.49:416][453]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.26-23.41.49:416][453]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.26-23.41.49:418][453]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.26-23.41.49:420][453]LogD3D11RHI: Shutdown
+[2020.04.26-23.41.49:420][453]LogD3D11RHI: CleanupD3DDevice
+[2020.04.26-23.41.49:426][453]LogExit: Exiting.
+[2020.04.26-23.41.49:439][453]Log file closed, 04/26/20 19:41:49

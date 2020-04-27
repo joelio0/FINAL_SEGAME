@@ -1768,3 +1768,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.27-19.56.31:171][245]LogContentValidation: Display: Validating Blueprint /Game/Character/Soldier/InventorySystem/Items/Item.Item
 [2020.04.27-19.56.31:174][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/Character/Soldier/InventorySystem/InventoryUI/InventorySlot.InventorySlot
 [2020.04.27-19.56.31:174][245]LogContentValidation: Display: Validating Blueprint /Game/Character/Soldier/InventorySystem/Items/HealthPotion/HealthPotionBP.HealthPotionBP
+[2020.04.27-19.58.50:685][470]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.27-19.58.52:267][474]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.27-19.58.56:217][485]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.27-19.58.57:641][489]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.27-19.58.58:999][493]LogAudioMixer: Display: Audio Buffer Underrun detected.
